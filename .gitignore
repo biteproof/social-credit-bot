@@ -1,0 +1,7 @@
+.vscode/
+.idea/
+bin/
+obj/
+/packages/
+appsettings.Testing.json
+

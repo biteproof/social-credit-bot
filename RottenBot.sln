@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RottenBot.Web", "RottenBot.Web\RottenBot.Web.csproj", "{45F345CD-DCC4-41B7-99B7-052934BD133D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RottenBot.Domain", "RottenBot.Domain\RottenBot.Domain.csproj", "{B658BB0F-9D7F-441B-A884-A500E3F97D68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RottenBot.DataAccess.Postgres", "RottenBot.DataAccess.Postgres\RottenBot.DataAccess.Postgres.csproj", "{7C10A2C3-E1CF-449D-9F21-2889D10A2665}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45F345CD-DCC4-41B7-99B7-052934BD133D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45F345CD-DCC4-41B7-99B7-052934BD133D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45F345CD-DCC4-41B7-99B7-052934BD133D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45F345CD-DCC4-41B7-99B7-052934BD133D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B658BB0F-9D7F-441B-A884-A500E3F97D68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B658BB0F-9D7F-441B-A884-A500E3F97D68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B658BB0F-9D7F-441B-A884-A500E3F97D68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B658BB0F-9D7F-441B-A884-A500E3F97D68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C10A2C3-E1CF-449D-9F21-2889D10A2665}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C10A2C3-E1CF-449D-9F21-2889D10A2665}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C10A2C3-E1CF-449D-9F21-2889D10A2665}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C10A2C3-E1CF-449D-9F21-2889D10A2665}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
